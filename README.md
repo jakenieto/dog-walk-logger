@@ -1,5 +1,4 @@
-# Dog Walk Logger
-## for bokhee
+# Dog Walk Logger (for Bokhee)
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_f32hu3f32hu3f32h" src="https://github.com/user-attachments/assets/f6aa34b9-790f-4879-8518-e2304f8e8206" />
 
