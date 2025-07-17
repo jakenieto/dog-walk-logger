@@ -6,5 +6,6 @@
 //
 
 struct SupabaseConfig {
-    
+    static let url =
+    static let anonKey = 
 }
