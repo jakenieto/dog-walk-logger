@@ -1,3 +1,9 @@
+# Dog Walk Logger
+## for bokhee
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_f32hu3f32hu3f32h" src="https://github.com/user-attachments/assets/f6aa34b9-790f-4879-8518-e2304f8e8206" />
+
+
 This is a custom app so my partner and I can log walks for our dog easily. 
 We found it annoying having to text each other all the time and this allows us to just share basic info via a convient UI. 
 
